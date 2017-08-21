@@ -28,7 +28,7 @@
     "async": "^2.5.0",
     "debug": "^2.6.8",
     "interface-connection": "~0.3.2",
-    "libp2p-crypto": "~0.9.4",
+    "libp2p-crypto": "github:ya7ya/js-libp2p-crypto#master",
     "multihashing-async": "~0.4.6",
     "peer-id": "~0.9.0",
     "protocol-buffers": "^3.2.1",
